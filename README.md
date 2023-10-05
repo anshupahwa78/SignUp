@@ -76,4 +76,5 @@ Before you begin, make sure you have the following:
 Congratulations! You have successfully created a Signup page using HTML. Feel free to customize and expand upon this basic structure to meet your specific requirements.
 
 ## Click on given link to view code and output
-https://docs.google.com/document/d/e/2PACX-1vTqEej3WpncWFHl0PdnCAjUD_iJvyr_OHsHUsUPbRY7z9XKbdQmIENVL45KMF2ao9ItRPGdykRiFg2L/pub
+
+ https://docs.google.com/document/d/e/2PACX-1vTqEej3WpncWFHl0PdnCAjUD_iJvyr_OHsHUsUPbRY7z9XKbdQmIENVL45KMF2ao9ItRPGdykRiFg2L/pub
